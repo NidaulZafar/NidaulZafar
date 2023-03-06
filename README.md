@@ -15,6 +15,14 @@ I am an experienced language teacher and a passionate web developer.
 ## Technologies on my TODO List I am Passionate About:
 <img src="https://img.shields.io/badge/-Typescript-999999?logo=typescript" height="30" alt="TypeScript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Laravel-ffffff?logo=laravel" height="30" alt="Laravel">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Sass-000000?logo=sass" height="30" alt="Sass">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Angular-666666?logo=angular" height="30" alt="Angular">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-GraphQL-346575?logo=graphql" height="30" alt="GraphQL">
 
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/NidaulZafar/Courier4me">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NidaulZafar&repo=Courier4me&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+<a href="https://github.com/NidaulZafar/Property-rentals">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NidaulZafar&repo=Property-rentals&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Property-Rentals" />
+</a>
 
 
 
