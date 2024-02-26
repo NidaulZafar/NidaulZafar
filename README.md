@@ -17,6 +17,9 @@ I am an experienced language teacher and a passionate web developer.
 
 ## 🗂️ Highlight Projects
 
+<a href="https://github.com/NidaulZafar/LearningPlatform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NidaulZafar&repo=LearningPlatform&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
 <a href="https://github.com/NidaulZafar/Courier4me">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NidaulZafar&repo=Courier4me&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
