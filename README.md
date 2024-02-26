@@ -15,7 +15,7 @@ I am an experienced language teacher and a passionate web developer.
 ## Technologies on my TODO List I am Passionate About:
 <img src="https://img.shields.io/badge/-Sass-000000?logo=sass" height="30" alt="Sass">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Angular-666666?logo=angular" height="30" alt="Angular">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-GraphQL-346575?logo=graphql" height="30" alt="GraphQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Vue.js-855733?logo=VUE.js" height="30" alt="Vue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-python-996999?logo=python" height="30" alt="Python">
 
-## 🗂️ Highlight Projects
+## 🗂️ Portfolio
 
 <a href="https://github.com/NidaulZafar/LearningPlatform">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NidaulZafar&repo=LearningPlatform&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
