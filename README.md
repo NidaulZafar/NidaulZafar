@@ -5,8 +5,9 @@ Welcome to my Profile 👋
 
 
 I am an experienced language teacher and a passionate web developer.  
+- 🔭 I have knowledge about React, PHP Laravel and Databases
 - 🔭 I’m currently working on gaining hands-on experience in full stack development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Java and Cloud Engineering
 - 💬 Ask me how to Hack your Future ...
 
 ## Technologies I have worked with:
